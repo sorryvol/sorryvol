@@ -1,12 +1,20 @@
 # Hi, my name is Darcy Power.
 
-I'm a self-taught software developer from Australia
+I'm a self-taught software engineer from Australia, but am currently enrolled in a Bachelor of Computing Science at 'University of Technology Sydney'. and am open to job offers and opportunities.
 
-## Interests
+## Full-Stack Development
+I'm am constantly improving my skill in Full stack development by actively creating new projects with the intention improving my skills and learning new frameworks.
 
-I'm currently learning the ins and outs of web-development, 
-focusing on learning the Vue 3 framework, MySQL, and Git.
+My stack of choice is the MEVN stack.
 
-I also have an interest in C++.
-I plan to learn the GLFW library with the intention of creating a simple 2D game engine
-mainly as a way to hone my skill set, but also because I have an interest in game development. 
+- M - MongoDB (or MySQL if it is more suited to the project)
+- E - Express.js
+- V - Vue3.js
+- N - Node.js
+
+
+## C++
+I am also well versed in C++ and am able to incorporate it into projects when needed, it is my language of choice when not working on websites.
+
+## Contact Me
+- Email : darcypower9@gmail.com
