@@ -7,7 +7,7 @@ I'm am constantly improving my skill in Full stack development by actively creat
 
 My stack of choice is the MEVN stack.
 
-- M - MongoDB (or MySQL if it is more suited to the project)
+- M - MySQL (or MongoDB if it is more suited to the project)
 - E - Express.js
 - V - Vue3.js
 - N - Node.js
