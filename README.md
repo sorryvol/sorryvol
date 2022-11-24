@@ -9,7 +9,7 @@ My stack of choice is the MEVN stack.
 
 - M - MySQL (or MongoDB if it is more suited to the project)
 - E - Express.js
-- V - Vue3.js
+- R - React.js
 - N - Node.js
 
 
