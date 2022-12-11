@@ -5,7 +5,7 @@ I'm a self-taught software engineer from Australia, but am currently enrolled in
 ## Full-Stack Development
 I'm am constantly improving my skill in Full stack development by actively creating new projects with the intention improving my skills and learning new frameworks.
 
-My stack of choice is the MEVN stack.
+My stack of choice is the MERN stack.
 
 - M - MySQL (or MongoDB if it is more suited to the project)
 - E - Express.js
