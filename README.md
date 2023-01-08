@@ -3,7 +3,7 @@
 I'm a self-taught software engineer from Australia, but am currently enrolled in a Bachelor of Computing Science at the University of Technology Sydney. and am open to job offers and opportunities.
 
 ## Full-Stack Development
-I'm am constantly improving my skill in Full stack development by actively creating new projects with the intention improving my skills and learning new frameworks.
+I'm am constantly improving my skills in full stack development by actively creating new projects with the intention improving my learning new concepts and frameworks to develop myself into a better developer.
 
 My stack of choice is the MERN stack.
 
