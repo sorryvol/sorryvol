@@ -1,6 +1,6 @@
 # Hi, my name is Darcy Power.
 
-I'm a self-taught software engineer from Australia, but am currently enrolled in a Bachelor of Computing Science at 'University of Technology Sydney'. and am open to job offers and opportunities.
+I'm a self-taught software engineer from Australia, but am currently enrolled in a Bachelor of Computing Science at the University of Technology Sydney. and am open to job offers and opportunities.
 
 ## Full-Stack Development
 I'm am constantly improving my skill in Full stack development by actively creating new projects with the intention improving my skills and learning new frameworks.
