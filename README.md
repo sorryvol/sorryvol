@@ -1,9 +1,9 @@
 # Hi, my name is Darcy Power.
 
-I'm a self-taught software engineer from Australia, but am currently enrolled in a Bachelor of Computing Science at the University of Technology Sydney. and am open to job offers and opportunities.
+I'm a self-taught full stack software engineer from Australia.
 
 ## Full-Stack Development
-I'm am constantly improving my skills in full stack development by actively creating new projects with the intention improving my learning new concepts and frameworks to develop myself into a better developer.
+I'm am constantly learning and improving my skills by working on different projects. I excel more at backend programming than frontend but can make a well designed website if needed, I have a plethora of 'non software engineer' skills which can assist me in making websites and applications looks better such as: Adobe Photoshop, Adobe Illustrator, Blender/3D modelling and more.
 
 My stack of choice is the MERN stack.
 
